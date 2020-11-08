@@ -56,4 +56,5 @@ $RECYCLE.BIN/
 # Custom
 dist/
 coverage/
+_old/
 test/api*.json
