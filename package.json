@@ -43,25 +43,25 @@
   ],
   "dependencies": {
     "chalk": "^3.0.0",
-    "commander": "^7.1.0",
-    "js-yaml": "^4.0.0",
+    "commander": "^7.2.0",
+    "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.3",
     "node-fetch": "^2.6.1",
     "swagger2openapi": "^7.0.5"
   },
   "devDependencies": {
-    "@types/jest": "26.0.20",
+    "@types/jest": "26.0.22",
     "@types/js-yaml": "4.0.0",
     "@types/lodash": "4.14.168",
     "@types/mkdirp": "^1.0.1",
-    "@types/node": "14.14.32",
-    "@types/node-fetch": "2.5.8",
+    "@types/node": "14.14.41",
+    "@types/node-fetch": "2.5.10",
     "esbuild-jest": "0.5.0",
-    "esbuild-node-tsc": "1.2.0",
+    "esbuild-node-tsc": "1.4.2",
     "jest": "26.6.3",
-    "openapi-types": "7.2.3",
-    "typescript": "4.2.3"
+    "openapi-types": "8.0.0",
+    "typescript": "4.2.4"
   },
   "jest": {
     "testRegex": "\\.(test|spec)\\.tsx?$",
